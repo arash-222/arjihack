@@ -89,7 +89,7 @@ arash = """\033[0m
  \033[91m"""
 def menu():
     print (arash + """\033[1m
- [!] This Tool Must Run As ROOT [!] https://linktr.ee/thehackingsage
+ [!] This Tool Must Run As ROOT [!]https://github.com/arash-222/arjihack
 \033[0m
    {1}--Information Gathering
    {2}--Password Attacks
@@ -99,10 +99,10 @@ def menu():
    {6}--Web Hacking
    {7}--Private Web Hacking
    {8}--Post Exploitation
-   {0}--Install The HACKTRONIAN
+   {0}--Install The Arji
    {99}-Exit
  """)
-    choice = raw_input("hacktronian~# ")
+    choice = raw_input("Arash~# ")
     os.system('clear')
     if choice == "1":
         info()
@@ -134,7 +134,7 @@ def updatehacktronian():
     print ("This Tool is Only Available for Linux and Similar Systems. ")
     choiceupdate = raw_input("Continue Y / N: ")
     if choiceupdate in yes:
-        os.system("git clone https://github.com/thehackingsage/hacktronian.git")
+        os.system("git clone https://github.com/arash-222/arjihack")
         os.system("cd hacktronian && sudo bash ./update.sh")
         os.system("hacktronian")
 
