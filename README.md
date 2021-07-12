@@ -93,15 +93,15 @@
 
 This Tool Must Run As ROOT !!!
 
-```git clone https://github.com/thehackingsage/hacktronian.git```
+```https://github.com/arash-222/arjihack.git```
 
-```cd hacktronian```
+```cd Arash```
 
 ```chmod +x install.sh```
 
 ```./install.sh```
 
-That's it.. you can execute tool by typing **hacktronian**
+That's it.. you can execute tool by typing **ARASH**
 
 ## Installation in Android :
 
@@ -111,7 +111,7 @@ Open [Termux](https://play.google.com/store/apps/details?id=com.termux)
 
 ```pkg install python```
 
-```git clone https://github.com/thehackingsage/hacktronian.git```
+```git clone https://github.com/arash-222/arjihack.git```
 
 ```cd hacktronian```
 
@@ -119,9 +119,6 @@ Open [Termux](https://play.google.com/store/apps/details?id=com.termux)
 
 ```python2 hacktronian.py```
 
-## Video Tutorial : 
-
-YouTube : https://www.youtube.com/watch?v=1LJlyQAQby4
 
 ## License :
 
