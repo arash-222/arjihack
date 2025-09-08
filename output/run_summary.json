@@ -1,0 +1,9 @@
+{
+  "telemetry": {
+    "events": 6,
+    "by_type": {
+      "execution": 6
+    }
+  },
+  "archive_len": 6
+}

@@ -1,0 +1,6 @@
+{"type": "execution", "kind": "text", "duration_ms": 10}
+{"type": "execution", "kind": "text", "duration_ms": 10}
+{"type": "execution", "kind": "traffic", "duration_ms": 10}
+{"type": "execution", "kind": "traffic", "duration_ms": 10}
+{"type": "execution", "kind": "program_stub", "duration_ms": 10}
+{"type": "execution", "kind": "program_stub", "duration_ms": 10}
