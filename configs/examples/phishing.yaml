@@ -1,0 +1,20 @@
+id: phishing-v0
+name: Credential-Phishing Emulation (Safe)
+tactics:
+	- TA0001
+	- TA0009
+style_tokens:
+	topic: account-verification
+	length: "160"
+	spacing: normal
+	traffic_intensity: "3"
+constraints:
+	no_live_exploit: true
+	no_credentials: true
+	no_outbound_dns: true
+	no_external_urls: true
+kpis:
+	alert_latency_target_ms: 500
+	policy_compliance_target: 1.0
+environment:
+	lab: twin-minimal
